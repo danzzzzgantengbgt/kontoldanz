@@ -1,5 +1,5 @@
---®4D Brookhaven
---By M1zz
+--Taufik Hub Brookhaven
+--By Aldan
 
 
 
@@ -23,7 +23,7 @@ imageLabel.Name = "NotificationImage"
 imageLabel.Size = UDim2.new(1, 100, 1, 100) -- Increase the size to make the image bigger
 imageLabel.Position = UDim2.new(0.1, -70, 0.1, 0) -- Adjust the position if needed
 imageLabel.BackgroundTransparency = 1
-imageLabel.Image = "rbxassetid://14492716941" -- Replace with your own image asset ID
+imageLabel.Image = "rbxassetid://6476474950" -- Replace with your own image asset ID
 imageLabel.Parent = frame
 
 -- Create a TextLabel for the notification message
@@ -49,8 +49,8 @@ showNotification()
 
 
 game.StarterGui:SetCore("SendNotification", {
-            Title = "®4D BROOKHAVEN",
-            Text = "By M1zz",
+            Title = "Taufik Hub BROOKHAVEN",
+            Text = "By Aldan X Taufik",
             Duration = 5
         })
 wait(3)
@@ -77,19 +77,13 @@ title.Name = "Title"
 title.Size = UDim2.new(1, 0, 0, 30)
 title.Position = UDim2.new(0, 0, 0, 0)
 title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-title.Text = "®4D"
+title.Text = "Taufik Hub"
 title.FontSize = Enum.FontSize.Size24
 title.TextColor3 = Color3.fromRGB(0, 0, 0)
 title.Parent = frame
 -- List of specific colors
 local colors = {
     Color3.fromRGB(255, 0, 0),     -- Red
-    Color3.fromRGB(0, 0, 255),     -- Blue
-    Color3.fromRGB(255, 255, 255), -- White
-    Color3.fromRGB(0, 255, 255),   -- Cyan
-    Color3.fromRGB(128, 0, 128),   -- Purple
-    Color3.fromRGB(0, 255, 0),     -- Green
-    Color3.fromRGB(255, 165, 0),   -- Orange
 }
 
 -- Function to select a random color from the list
@@ -132,7 +126,7 @@ closeButton.MouseButton1Click:Connect(closeGUI)
 local buttonFunctions = {
     [1] = function()
         --Brookhaven Bright phone 
---By M1zz
+--By Aldan
 
 --Change Camera Position 
     local Camera = game.Workspace.Camera
@@ -213,7 +207,7 @@ remove:Destroy()
     end,
     [2] = function()
         --Brookhaven Fire Hand
---By M1zz
+--By Aldan
 
 
 -- Get the player's character and initial position
@@ -349,7 +343,7 @@ button.MouseButton1Click:Connect(runScript)
         
 
 --Brookhaven Kill [FIXED]
---By M1zz
+--By Aldan
 
 
 
@@ -403,7 +397,7 @@ button.Parent = frame
 local function runScript()
 
 --Brookhaven Void Player
---By M1zz 
+--By Aldan 
 
 local args = {
     [1] = "ClearAllTools"
@@ -429,7 +423,7 @@ game:GetService("ReplicatedStorage").RE["1Clea1rTool1s"]:FireServer(unpack(args)
 
 
 --Bring unanchored 
---By M1zz
+--By Aldan
 
 -- Find all unanchored parts in the workspace
 local unanchoredParts = workspace:GetDescendants()
@@ -456,7 +450,7 @@ game:GetService("ReplicatedStorage").RE["1Playe1rTrigge1rEven1t"]:FireServer(unp
 
 wait(2)
 --Drop Tools script
---By M1zz
+--By Aldan
 
 local player = game.Players.LocalPlayer
 
@@ -527,7 +521,7 @@ button.MouseButton1Click:Connect(runScript)
     [5] = function()
     frame.Visible = false
         --Brookhaven Bright phone (lag server) (Can Lag for a second if unequip & equip too)
---By M1zz
+--By Aldan
 
 
 game.StarterGui:SetCore("SendNotification", {
@@ -609,7 +603,7 @@ remove:Destroy()
     end,
     [6] = function()
         --Brookhaven Play Soccer
---By M1zz
+--By Aldan
 
 
 -- Get the player's character and initial position
@@ -859,7 +853,7 @@ end)
     end,
     [9] = function()
         --Brookhaven spam basketball
---By M1zz
+--By Aldan
 
 local args = {
     [1] = "ClearAllTools"
@@ -952,7 +946,7 @@ end
     [10] = function()
     frame.Visible = false
         --Brookhaven LagV2 (lag server) (Can Lag for a second if unequip & equip too)
---By M1zz
+--By Aldan
 
     --Change Camera Position 
     local Camera = game.Workspace.Camera
@@ -1123,7 +1117,7 @@ closeButton.MouseButton1Click:Connect(onCloseButtonClick)
     end,
     [11] = function()
         --Brookhaven All Board Text Changer
---By M1zz
+--By Aldan
 
 
 
@@ -1329,7 +1323,7 @@ closeButton.Parent = frame
     end,
     [12] = function()
     --Brookhaven Box FireX
---By M1zz
+--By Aldan
 
 
 
@@ -1407,7 +1401,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -1446,7 +1440,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -1485,7 +1479,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -1524,7 +1518,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -1563,7 +1557,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -1602,7 +1596,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -1640,7 +1634,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -1679,7 +1673,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -1718,7 +1712,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -1757,7 +1751,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -1796,7 +1790,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -1835,7 +1829,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -1873,7 +1867,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -1912,7 +1906,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -1951,7 +1945,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -1989,7 +1983,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -2028,7 +2022,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -2067,7 +2061,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -2105,7 +2099,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -2144,7 +2138,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -2183,7 +2177,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -2221,7 +2215,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -2260,7 +2254,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -2299,7 +2293,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -2337,7 +2331,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -2376,7 +2370,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -2415,7 +2409,7 @@ end
 
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -2478,7 +2472,7 @@ end
         wait(2)
         
         --Brookhaven R4D Troll
---By M1zz
+--By Aldan
 
 local gui = Instance.new("ScreenGui")
 gui.Name = "TrollGui"
@@ -2545,7 +2539,7 @@ Button.Parent = frame
 Button.MouseButton1Click:Connect(function()
 
 --Brookhaven Big D1ck
---By M1zz
+--By Aldan
 
 local args = {
     [1] = "ClearAllTools"
@@ -2614,7 +2608,7 @@ game:GetService("ReplicatedStorage").RE["1Too1l"]:InvokeServer(unpack(args))
 
 
 --Equiptool script (work on 50 tools)
---By M1zz
+--By Aldan
 
 
 local player = game.Players.LocalPlayer
@@ -2632,7 +2626,7 @@ for _, tool in ipairs(backpack:GetChildren()) do
 end
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -2660,7 +2654,7 @@ end
 wait(1)
 
 --Equiptool script (work on 50 tools)
---By M1zz
+--By Aldan
 
 
 local player = game.Players.LocalPlayer
@@ -2678,7 +2672,7 @@ for _, tool in ipairs(backpack:GetChildren()) do
 end
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -2706,7 +2700,7 @@ end
 wait(1)
 
 --Equiptool script (work on 50 tools)
---By M1zz
+--By Aldan
 
 
 local player = game.Players.LocalPlayer
@@ -2724,7 +2718,7 @@ for _, tool in ipairs(backpack:GetChildren()) do
 end
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -2750,7 +2744,7 @@ else
 end
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -2820,7 +2814,7 @@ Button1.Parent = frame
 Button1.MouseButton1Click:Connect(function()
 
 --Brookhaven G y at
---By M1zz
+--By Aldan
 
 
 local args = {
@@ -2878,7 +2872,7 @@ game:GetService("ReplicatedStorage").RE["1Too1l"]:InvokeServer(unpack(args))
 
 
 --Equiptool script (work on 50 tools)
---By M1zz
+--By Aldan
 
 
 local player = game.Players.LocalPlayer
@@ -2896,7 +2890,7 @@ for _, tool in ipairs(backpack:GetChildren()) do
 end
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -2924,7 +2918,7 @@ end
 wait(1)
 
 --Equiptool script (work on 50 tools)
---By M1zz
+--By Aldan
 
 
 local player = game.Players.LocalPlayer
@@ -2942,7 +2936,7 @@ for _, tool in ipairs(backpack:GetChildren()) do
 end
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -3020,7 +3014,7 @@ Button2.Parent = frame
 Button2.MouseButton1Click:Connect(function()
 
 --Brookhaven Big Pp V2
---By M1zz
+--By Aldan
 
 -- Variables to store previous position
 local previousPosition = nil
@@ -3633,7 +3627,7 @@ Button3.Parent = frame
 Button3.MouseButton1Click:Connect(function()
 gui:Destroy()
 --Brookhaven Dragon
---By M1zz
+--By Aldan
 
 
 
@@ -3732,7 +3726,7 @@ game:GetService("ReplicatedStorage").RE["1Updat1eAvata1r"]:FireServer(unpack(arg
 
 ---Bypassed Tower Of hell
 ---Double Jump
----By M1zz
+---By Aldan
 
 -- Define the workspace, player, and jump block variables
 local workspace = game:GetService("Workspace")
@@ -3763,7 +3757,7 @@ player.Character.Humanoid.Jumping:Connect(function()
 end)
  
  game.StarterGui:SetCore("SendNotification", {
-            Title = "Brookhaven Dragon By M1zz",
+            Title = "Brookhaven Dragon By Aldan",
             Text = "Send A Target Shoulder Carry Request To Let Them Ride You",
             Duration = 20
         })
@@ -3825,7 +3819,7 @@ while true do
     
     wait(0.1)
 end
----By M1zz
+---By Aldan
 
 
 
@@ -3842,7 +3836,7 @@ Button4.Parent = frame
 Button4.MouseButton1Click:Connect(function()
 gui:Destroy()
 --Brookhaven Block
---By M1zz
+--By Aldan
 
 
 -- Create GUI
@@ -3981,7 +3975,7 @@ end)
 button1.MouseButton1Click:Connect(function()
     
     --Brookhaven Block
---By M1zz
+--By Aldan
 
 
 
@@ -4226,7 +4220,7 @@ Button5.Parent = frame
 Button5.MouseButton1Click:Connect(function()
 gui:Destroy()
 --Brookhaven Smoking
---By M1zz
+--By Aldan
 
 -- Create a ScreenGui to hold the GUI elements
 local gui = Instance.new("ScreenGui")
@@ -4305,7 +4299,7 @@ end
 
 
 --Fe Play animation script
---By M1zz
+--By Aldan
 
    -- Insert your animation ID here
 local animationId = "7551761191"
@@ -4473,7 +4467,7 @@ Button6.Parent = frame
 Button6.MouseButton1Click:Connect(function()
 
 --Brookhaven Couch Hammer
---By M1zz
+--By Aldan
 
 
 local args = {
@@ -4549,7 +4543,7 @@ game:GetService("ReplicatedStorage").RE["1Too1l"]:InvokeServer(unpack(args))
 wait(1)
 
 --Equiptool script (work on 50 tools)
---By M1zz
+--By Aldan
 
 
 local player = game.Players.LocalPlayer
@@ -4567,7 +4561,7 @@ for _, tool in ipairs(backpack:GetChildren()) do
 end
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -4595,7 +4589,7 @@ end
 wait(1)
 
 --Equiptool script (work on 50 tools)
---By M1zz
+--By Aldan
 
 
 local player = game.Players.LocalPlayer
@@ -4613,7 +4607,7 @@ for _, tool in ipairs(backpack:GetChildren()) do
 end
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -4642,7 +4636,7 @@ end
 wait(1)
 
 --Equiptool script (work on 50 tools)
---By M1zz
+--By Aldan
 
 
 local player = game.Players.LocalPlayer
@@ -4660,7 +4654,7 @@ for _, tool in ipairs(backpack:GetChildren()) do
 end
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -4688,7 +4682,7 @@ end
 wait(1)
 
 --Equiptool script (work on 50 tools)
---By M1zz
+--By Aldan
 
 
 local player = game.Players.LocalPlayer
@@ -4706,7 +4700,7 @@ for _, tool in ipairs(backpack:GetChildren()) do
 end
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -4732,7 +4726,7 @@ else
 end
 
 --Brookhaven Change FireX position "equip the tools again if u run the script while holding the tools to make it fe"
---By M1zz
+--By Aldan
 --FE
 
 -- Get the workspace
@@ -4784,7 +4778,7 @@ local Couch = backpack:FindFirstChild("Couch")
          
    
    --Equiptool script (work on 50 tools)
---By M1zz
+--By Aldan
 
 
 local player = game.Players.LocalPlayer
@@ -4802,7 +4796,7 @@ for _, tool in ipairs(backpack:GetChildren()) do
 end
 
 --Equiptool script (work on 50 tools)
---By M1zz
+--By Aldan
 
 
 local player = game.Players.LocalPlayer
@@ -4828,7 +4822,7 @@ local PaperBagTool = backpack:FindFirstChild("Paperbag")
         b:Destroy()
     wait(1)     
            --Equiptool script (work on 50 tools)
---By M1zz
+--By Aldan
 
 
 local player = game.Players.LocalPlayer
@@ -4855,7 +4849,7 @@ local PaperBag = backpack:FindFirstChild("Paperbag")
          
          wait(1)     
            --Equiptool script (work on 50 tools)
---By M1zz
+--By Aldan
 
 
 local player = game.Players.LocalPlayer
@@ -4999,7 +4993,7 @@ Button7.Parent = frame
 Button7.MouseButton1Click:Connect(function()
 
 --Fe Delete Unanchored parts (Fire Effect)
---By M1zz
+--By Aldan
 
  -- Create a ScreenGui
 local gui = Instance.new("ScreenGui")
@@ -5261,7 +5255,7 @@ Button8.Parent = frame
 Button8.MouseButton1Click:Connect(function()
 
 --Brookhaven Jumpscare (Need Music Gamepass)
---By M1zz
+--By Aldan
 
 
 -- Create GUI
@@ -5503,7 +5497,7 @@ Button9.Parent = frame
 Button9.MouseButton1Click:Connect(function()
 
 --Brookhaven Lie Detector 
---By M1zz
+--By Aldan
 
 
 local args = {
@@ -5559,7 +5553,7 @@ titleLabel.Name = "TitleLabel"
 titleLabel.Size = UDim2.new(1, 0, 0, 30)
 titleLabel.BackgroundColor3 = Color3.new(0, 0, 0)
 titleLabel.TextColor3 = Color3.new(1, 1, 1)
-titleLabel.Text = "Lie Detector By M1zz"
+titleLabel.Text = "Lie Detector By Aldan"
 titleLabel.Parent = frame
 
 -- Create a TextBox
@@ -5713,7 +5707,7 @@ Button10.Parent = frame
 Button10.MouseButton1Click:Connect(function()
 gui:Destroy()
 --Brookhaven Drift RC
---By M1zz
+--By Aldan
 
 
 local gui = Instance.new("ScreenGui")
@@ -6263,7 +6257,7 @@ Button11.MouseButton1Click:Connect(function()
 gui:Destroy()
 
 --Brookhaven Blind Player
---By M1zz
+--By Aldan
 
 
 -- Create the GUI
@@ -6346,7 +6340,7 @@ local args = {
 game:GetService("ReplicatedStorage").RE["1Playe1rTrigge1rEven1t"]:FireServer(unpack(args))
 wait(1)
 --Drop Tools script
---By M1zz
+--By Aldan
 
 local player = game.Players.LocalPlayer
 
@@ -6505,7 +6499,7 @@ Button12.Parent = frame
 Button12.MouseButton1Click:Connect(function()
 gui:Destroy()
 --FE Brookhaven R6 Animation
---By M1zz
+--By Aldan
 
 local character = game.Players.LocalPlayer.Character 
 
@@ -6535,7 +6529,7 @@ Button13.Parent = frame
 Button13.MouseButton1Click:Connect(function()
 gui:Destroy()
 --Brookhaven Bio Changer
---By M1zz
+--By Aldan
 
 local gui = Instance.new("ScreenGui")
 gui.Name = "TeleportGUI"
@@ -6636,7 +6630,7 @@ local args = {
 game:GetService("ReplicatedStorage").RE["1RPNam1eTex1t"]:FireServer(unpack(args))
 
 --Bio changer
---By M1zz
+--By Aldan
 
 local gui = Instance.new("ScreenGui")
 gui.Name = "TeleportGUI"
@@ -7225,11 +7219,11 @@ Button14.MouseButton1Click:Connect(function()
 gui:Destroy()
 
 --Brookhaven Horse Raid (Most Op Brookhaven Script For Now)
---By M1zz
+--By Aldan
 
 game.StarterGui:SetCore("SendNotification", {
             Title = "HORSE-RAID",
-            Text = "By M1zz",
+            Text = "By Aldan",
             Duration = 5
         })
         
@@ -8360,7 +8354,7 @@ Button15.MouseButton1Click:Connect(function()
 gui:Destroy()
 
 --Brookhaven Ride Pig
---By M1zz
+--By Aldan
 
 local player = game.Players.LocalPlayer
 
@@ -8445,10 +8439,10 @@ Button16.MouseButton1Click:Connect(function()
 gui:Destroy()
 
 --Brookhaven SpiderBow 
---By M1zz
+--By Aldan
 
 game.StarterGui:SetCore("SendNotification", {
-            Title = "SpiderBow By M1zz",
+            Title = "SpiderBow By Aldan",
             Text = "Shoot Anywhere",
             Duration = 5
         })
@@ -8514,7 +8508,7 @@ Button17.MouseButton1Click:Connect(function()
 gui:Destroy()
 
 --Brookhaven FlingV2
---By M1zz
+--By Aldan
 
 
 local args = {
@@ -8673,11 +8667,11 @@ Button.MouseButton1Click:Connect(function()
 gui2:Destroy()
 
 --Brookhaven Be A Baby
---By M1zz
+--By Aldan
 
 game.StarterGui:SetCore("SendNotification", {
             Title = "Be A Baby",
-            Text = "By M1zz",
+            Text = "By Aldan",
             Duration = 5
         })
         
@@ -8778,7 +8772,7 @@ Button1.Parent = frame2
 Button1.MouseButton1Click:Connect(function()
 gui2:Destroy()
 --Brookhaven Ride Wolf
---By M1zz
+--By Aldan
 
 local player = game.Players.LocalPlayer
 
@@ -8861,11 +8855,11 @@ Button2.Parent = frame2
 Button2.MouseButton1Click:Connect(function()
   gui2:Destroy() 
    --Brookhaven Elytra
---By M1zz
+--By Aldan
 
 game.StarterGui:SetCore("SendNotification", {
             Title = "Elytra ( Press Jump )",
-            Text = "By M1zz",
+            Text = "By Aldan",
             Duration = 5
         })
         
@@ -8995,7 +8989,7 @@ Button3.MouseButton1Click:Connect(function()
 gui2:Destroy()
 
 --Brookhaven Fe Gravity Coil 
---By M1zz
+--By Aldan
 
 
 local ChangeTool = Instance.new("Tool")
@@ -9061,7 +9055,7 @@ Button4.MouseButton1Click:Connect(function()
 gui2:Destroy()
 
 --Brookhaven Fe Speed Coil 
---By M1zz
+--By Aldan
 
 
 local ChangeTool = Instance.new("Tool")
@@ -9120,7 +9114,7 @@ Button5.MouseButton1Click:Connect(function()
 gui2:Destroy()
 
 --Brookhaven Fe Fusion Coil 
---By M1zz
+--By Aldan
 
 
 local ChangeTool = Instance.new("Tool")
@@ -9178,7 +9172,7 @@ Button6.MouseButton1Click:Connect(function()
 gui2:Destroy()
 
 --Brookhaven Sussy Cat
---By M1zz
+--By Aldan
 
 local player = game.Players.LocalPlayer
 
@@ -9264,7 +9258,7 @@ Button7.MouseButton1Click:Connect(function()
 gui2:Destroy()
 
 --Brookhaven Jenny Mod
---By M1zz
+--By Aldan
 
 local args = {
     [1] = "ClearAllTools"
@@ -9387,7 +9381,7 @@ local Tool1 = Instance.new("Tool")
    
 game.StarterGui:SetCore("SendNotification", {
             Title = "Jenny Mod",
-            Text = "By M1zz",
+            Text = "By Aldan",
             Duration = 5
         })
 
@@ -9445,7 +9439,7 @@ if game.Players.LocalPlayer.Character:FindFirstChild("M*sturbate") then
 
 
 --Fe Play animation script
---By M1zz
+--By Aldan
 
    -- Insert your animation ID here
 local animationId = "2613540098"
@@ -9549,7 +9543,7 @@ Button8.MouseButton1Click:Connect(function()
 gui2:Destroy()
 
 --Brookhaven Invisible 
---By M1zz
+--By Aldan
 
 local args = {
     [1] = "ClearAllTools"
@@ -9618,7 +9612,7 @@ Button9.MouseButton1Click:Connect(function()
 gui2:Destroy()
 
 --Brookhaven Dr*g
---By M1zz
+--By Aldan
 
 
 
@@ -9659,7 +9653,7 @@ game:GetService("ReplicatedStorage").RE["1Updat1eAvata1r"]:FireServer(unpack(arg
 wait(0.8)
 
 --Fe Play animation script
---By M1zz
+--By Aldan
 
    -- Insert your animation ID here
 local animationId = "4896232037"
@@ -9822,7 +9816,7 @@ Button10.MouseButton1Click:Connect(function()
 gui2:Destroy()
 
 --Brookhaven Vape
---By M1zz
+--By Aldan
 local args = {
     [1] = "ClearAllTools"
 }
@@ -9878,7 +9872,7 @@ button.Parent = draggableFrame
 local function onButtonClicked()
 
 --Fe Play animation script
---By M1zz
+--By Aldan
 
    -- Insert your animation ID here
 local animationId = "4896232037"
@@ -10049,7 +10043,7 @@ nextButton.MouseButton1Click:Connect(nextGUI)
     [14] = function()
     frame.Visible = false
         --Brookhaven Car Settings
---By M1zz
+--By Aldan
 
 
 local gui = Instance.new("ScreenGui")
@@ -10296,7 +10290,20 @@ end)
 }
 
 local buttonNames = {
-    [1] = "Music ID",
+    [1] = "Bright Phone ",
+    [2] = "Fire Hand ",
+    [3] = "Fling ",
+    [4] = "[Fixed] Kill",
+    [5] = "Lag Server",
+    [6] = "Play Soccer ",
+    [7] = "Roomate ",
+    [8] = "Music ID",
+    [9] = "Spam Basketball ",
+    [10] = "Lag ServerV2 ",
+    [11] = "AllTextBoard",
+    [12] = "Box FireX ",
+    [13] = "Troll ",
+    [14] = "Vehicle Settings",  
     -- Add more button names here...
 }
 
@@ -10342,7 +10349,7 @@ end
 
 -- Create the open/close button
 local openButton = Instance.new("ImageButton")
-openButton.Image = "rbxassetid://14492716941"
+openButton.Image = "rbxassetid://6476474950"
 openButton.Size = UDim2.new(0, 50, 0, 50)
 openButton.Position = UDim2.new(0, 300, 0, 10)
 openButton.Draggable = true
